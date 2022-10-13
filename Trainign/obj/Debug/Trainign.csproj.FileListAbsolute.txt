@@ -1,0 +1,8 @@
+C:\Users\bjn88421\Documents\Proyects\Visual Studio\Trainign\Trainign\bin\Debug\Trainign.exe.config
+C:\Users\bjn88421\Documents\Proyects\Visual Studio\Trainign\Trainign\bin\Debug\Trainign.exe
+C:\Users\bjn88421\Documents\Proyects\Visual Studio\Trainign\Trainign\bin\Debug\Trainign.pdb
+C:\Users\bjn88421\Documents\Proyects\Visual Studio\Trainign\Trainign\obj\Debug\Trainign.csproj.AssemblyReference.cache
+C:\Users\bjn88421\Documents\Proyects\Visual Studio\Trainign\Trainign\obj\Debug\Trainign.csproj.SuggestedBindingRedirects.cache
+C:\Users\bjn88421\Documents\Proyects\Visual Studio\Trainign\Trainign\obj\Debug\Trainign.csproj.CoreCompileInputs.cache
+C:\Users\bjn88421\Documents\Proyects\Visual Studio\Trainign\Trainign\obj\Debug\Trainign.exe
+C:\Users\bjn88421\Documents\Proyects\Visual Studio\Trainign\Trainign\obj\Debug\Trainign.pdb
